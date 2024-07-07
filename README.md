@@ -68,11 +68,3 @@ chmod +x air_apple
 
 4. **Exit the Program**:
    - Enter `3` and press Enter to exit the program.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This `README.md` provides detailed instructions on how to set up, compile, and run the `Air Apple` assembly program on an Apple M1 Mac.
